@@ -27,6 +27,8 @@ D:/musketeer/colours/base.colours.darkest
 -------------------------------------------------------------------------------
 Modded files...
 
+dlc/580100_crimson_court/features/crimson_court/trinkets/crimson_court.entries.trinkets.json
+dlc/580100_crimson_court/features/crimson_court/trinkets/crimson_court.sets.trinkets.json
 heroes/musketeer/musketeer_A/anim/musketeer.sprite.afflicted.png
 heroes/musketeer/musketeer_A/anim/musketeer.sprite.attack_artillery.png
 heroes/musketeer/musketeer_A/anim/musketeer.sprite.attack_bandage.png
@@ -82,6 +84,7 @@ heroes/musketeer/musketeer_D/anim/musketeer.sprite.walk.png
 modes/bloodmoon/upgrades/heroes/musketeer.upgrades.json
 modes/new_game_plus/upgrades/heroes/musketeer.upgrades.json
 modes/radiant/upgrades/heroes/musketeer.upgrades.json
+dlc/735730_color_of_madness/trinkets/com.entries.trinkets.json
 heroes/musketeer/anim/musketeer.sprite.afflicted.atlas
 heroes/musketeer/anim/musketeer.sprite.afflicted.skel
 heroes/musketeer/anim/musketeer.sprite.attack_artillery.atlas
@@ -203,6 +206,8 @@ localization/localization.bat
 localization/localization.exe
 localization/musketeer.string_table.xml
 localization/steam_api.dll
+trinkets/com.rarities.trinkets.json
+trinkets/commusketeer.entries.trinkets.json
 trinkets/musketeer.entries.trinkets.json
 CONTRIBUTING.md
 README.md
@@ -211,6 +216,6 @@ preview_icon.png
 project.xml
 rework_musketeer.xml
 
-Submitting.......................................................................................................................................Submitted.
+Submitting.............................................................................................................................Submitted.
 Saving project file D:\musketeer\rework_musketeer.xml
 
